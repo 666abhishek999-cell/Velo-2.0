@@ -1,0 +1,6 @@
+{
+  "name": "VeloStream",
+  "description": "High-performance screen streaming and recording utility for gaming with RTMP/RTMPS, hardware encoding, and low-end device optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
